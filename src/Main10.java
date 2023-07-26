@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Main9 {
+public class Main10 {
 
     Node root;
 
@@ -14,7 +14,7 @@ public class Main9 {
 
 
     public static void main(String[] args) {
-        Main9 tree = new Main9();
+        Main10 tree = new Main10();
 
         tree.root = new Node(1);
         tree.root.lt = new Node(2);
