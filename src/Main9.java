@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
-
+//DFS 방법
 public class Main9 {
 
     Node root;
