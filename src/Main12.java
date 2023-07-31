@@ -1,8 +1,6 @@
-import java.util.LinkedList;
-import java.util.Queue;
 import java.util.Scanner;
 
-public class Main11 {
+public class Main12 {
 
     static int n, m, answer=0;
     static int[][] graph;
@@ -23,7 +21,7 @@ public class Main11 {
 
 
     public static void main(String[] args) {
-        Main11 T = new Main11();
+        Main12 T = new Main12();
         Scanner kb = new Scanner(System.in);
 
         n=kb.nextInt();
