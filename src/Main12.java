@@ -9,6 +9,7 @@ public class Main12 {
 
     public int DFS(int v) {
         if(v==n) answer++;
+        else
         for(int i=1;i<=n;i++){
             if(graph[v][i]==1 && ch[i]==0){
                 ch[i]=1;
